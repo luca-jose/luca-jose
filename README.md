@@ -21,3 +21,5 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=flat-square&logo=bootstrap&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  
+  ![Snake animation](https://github.com/luca-jose/luca-jose/blob/output/github-contribution-grid-snake.svg)

@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-lucasjose.pe.21@gmail.com-52BAC4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasjose.pe.21@gmail.com)](mailto:lucasjose.pe.21@gmail.com)
 ####
 ## Oi gente! 🚀
-<p>📒 Me chamo Lucas e atualmente faço o curso de Análise e Desenvolvimento de Sistemas pelo Porto Digital.</p> 
+<p>📒 Me chamo Lucas e atualmente faço o curso de Desenvolvimento de Sistemas pelo Porto Digital.</p> 
 <p>📘 Gosto muito de aprender e trocar conhecimento, acredito que essa troca de experiência agrega para todos. Nós nunca sabemos tudo sobre uma coisa e a melhor maneira de aprender é fazendo novos amigos.</p>
 <p>📕 Um dos meus hobbies por muito tempo foi a robótica, participei de diversos campeonatos regionais e nacionais na época da escola. Hobby tão essencial na minha que me fez definir a área que hoje eu quero seguir, programação!</p>
 <p>📗 Sou pernambucano apaixonado pelo nordeste, adoro compartilhar e escutar ideias, inovar, e principalmente me desafiar.</p>

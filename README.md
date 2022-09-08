@@ -5,7 +5,7 @@
 ####
 Sou um QA júnior na Accenture com 1 ano de experiência em testes de Software. Atuando em times ágeis com testes funcionais, regressão e exploratórios participei de todo processo de desenvolvimento do software, do refinamento a review antecipando problemas e identificando inconsistências. Durante minha carreira eu participei de competições de robótica regionais e nacionais, que me ajudaram hoje, a entender o processo de desenvolvimento, pesquisa e trabalho em equipe.
 
-Ferramentas:
+<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
 
 - Selenium WebDriver, JUnit, RestAssured, Postman, SoapUI, Rally.
 
@@ -21,12 +21,5 @@ Outros:
 
 ***
 
-<h3 align="left">🛠 Linguagens e Ferramentas:</h3>
-
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=java&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F46255?style=flat-square&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   
   ![Snake animation](https://github.com/luca-jose/luca-jose/blob/output/github-contribution-grid-snake.svg)

@@ -1,4 +1,4 @@
-# Lucas José | Desenvolvedor
+# Lucas José | Analista de Testes - QA
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_José-52BAC4?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-jos%C3%A9-094b30193/)](https://www.linkedin.com/in/lucas-jos%C3%A9-094b30193/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucasjose.pe.21@gmail.com-52BAC4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasjose.pe.21@gmail.com)](mailto:lucasjose.pe.21@gmail.com)
